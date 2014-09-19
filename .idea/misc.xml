@@ -3,6 +3,7 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
+  <component name="IdProvider" IDEtalkID="DBD9AB78232C5CBA25175B870B2963BD" />
   <component name="JsBowerSettings">
     <exe-path>$USER_HOME$/.nvm/v0.10.25/bin/bower</exe-path>
     <config-path />
